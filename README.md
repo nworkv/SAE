@@ -1,7 +1,5 @@
 # SAE
 SAE for VIT
-
-# SRGAN
 The research investigates how Sparse Autoencoders can enhance the understanding of internal representations within Vision Transformers. <br>
 Notebook : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zHiTLdVccE1zszPuBlcO4H7k8jPk8tgN?usp=sharing)
 
